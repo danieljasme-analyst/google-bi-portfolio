@@ -1,78 +1,57 @@
-# Course 1: Foundations of Business Intelligence
-## Google Fiber — Call Center Repeat Call Dashboard
+# Google Business Intelligence Certificate — Portfolio
 
-**Status:** ✅ Complete  
-**Scenario:** Google Fiber  
-**Deliverable type:** BI Project Planning Documents
-
----
-
-## Overview
-
-In this course, I completed the planning phase of a BI project for the Google Fiber call center team. This involved gathering stakeholder requirements, defining project scope and success criteria, and establishing a dashboard strategy — all before writing a single line of code or touching any data.
-
-This phase is often underestimated by junior BI professionals, but it's where projects succeed or fail. Getting alignment on requirements upfront prevents costly rework later.
+**Candidate:** Ahmad Daniel  
+**Program:** [Google Business Intelligence Certificate](https://grow.google/certificates/business-intelligence/) on Coursera  
+**Blog:** [danieljasme.hashnode.dev](https://danieljasme.hashnode.dev)  
+**Status:** In progress
 
 ---
 
-## Business Problem
+## About This Portfolio
 
-The Google Fiber customer service call center wanted to understand **how often customers call back after their first inquiry**. If a customer has to call multiple times to resolve a single issue, it signals a failure in first-call resolution — which hurts both customer satisfaction and operational efficiency.
+This repository documents my end-of-course projects from the **Google Business Intelligence Certificate**. Each course builds on the last — progressing from planning documents through data pipelines to fully deployed BI dashboards.
 
-**Primary question to answer:**  
-*How often are customers repeatedly contacting the customer service team, and which markets and problem types are driving the most repeat calls?*
-
----
-
-## Stakeholders
-
-| Name | Role |
-|------|------|
-| Emma Santiago | Hiring Manager (Client/Sponsor) |
-| Keith Portone | Project Manager |
-| Minna Rah | Lead BI Analyst |
-| Ian Ortega | BI Analyst |
-| Sylvie Essa | BI Analyst |
+All projects use the **Google Fiber** scenario: a fictional case study where I am a BI analyst candidate tasked with building a call center analytics dashboard that helps leadership understand and reduce repeat customer calls.
 
 ---
 
-## Dataset Context
+## Project Scenario: Google Fiber
 
-The data used in this project is a fictionalized, pre-anonymized version of actual Google Fiber call center data. Key structural details:
+> Google Fiber provides people and businesses with fiber optic internet. The customer service team is interested in exploring trends in repeat calls to reduce the number of times customers have to call in order for an issue to be resolved.
 
-- **Markets:** `market_1`, `market_2`, `market_3` — three different city service areas
-- **Problem types:**
-  - `Type_1` — Account management
-  - `Type_2` — Technician troubleshooting
-  - `Type_3` — Scheduling
-  - `Type_4` — Construction
-  - `Type_5` — Internet and wifi
-- **Call structure:** `contacts_n` = initial contact date; `contacts_n_6` = repeat call 6 days after first contact (7-day tracking window)
+**My role:** BI Analyst candidate building an end-to-end dashboard solution for the call center leadership team.
+
+**Business question:**  
+*How often are customers repeatedly contacting the customer service team, and what factors — market area, problem type, time of week — are driving those repeat calls?*
 
 ---
 
-## Deliverables
+## Courses & Deliverables
 
-| Document | Description |
-|----------|-------------|
-| [Stakeholder Requirements Document](documents/stakeholder-requirements.md) | Captures who the stakeholders are, what they need, and the primary business question |
-| [Project Requirements Document](documents/project-requirements.md) | Defines purpose, dependencies, prioritized requirements, SMART success criteria, compliance, and roll-out plan |
-| [Strategy Document](documents/strategy-document.md) | Establishes dashboard functionality, metrics, chart specifications, and stakeholder sign-off |
-
----
-
-## Key Decisions Made
-
-1. **Repeat call definition:** A repeat call is any contact by the same customer within a 7-day window of their initial call — this is based on the dataset's `contacts_n` column structure.
-2. **Scope:** Three charts minimum — repeat calls by first contact date, by market and problem type, and by time period (week/month/quarter).
-3. **Access:** Read-only for all listed stakeholders; no PII exposed (data is pre-anonymized).
+| Course | Title | Status | Blog Post | Key Deliverables |
+|--------|-------|--------|-----------|-----------------|
+| Course 1 | Foundations of Business Intelligence | ✅ Complete | [Read →](https://danieljasme.hashnode.dev/how-i-approached-the-google-fiber-bi-case-study-google-bi-certificate-course-1) | Stakeholder Requirements, Project Requirements, Strategy Documents |
+| Course 2 | The Path to Insights: Data Models and Pipelines | 🔄 In progress | Coming soon | Schema design, ETL pipeline |
+| Course 3 | Decisions, Decisions: Dashboards and Reports | ⏳ Upcoming | Coming soon | Final BI dashboard |
 
 ---
 
-## Reflection
+## Skills Demonstrated
 
-The most important skill practiced in this course was **asking the right questions before starting**. In a real BI role, jumping straight to building a dashboard without documented requirements leads to misaligned deliverables and wasted time. The three planning documents here serve as a contract between the BI team and the stakeholders.
+- Stakeholder requirements gathering and documentation
+- BI project planning and milestone management
+- KPI definition and SMART success criteria
+- Data schema design and ETL pipeline development
+- Dashboard design and data visualization
+- Cross-functional communication
 
 ---
 
-*Next: Course 2 — Data schema design and ETL pipeline*
+## Contact
+
+**Blog:** [danieljasme.hashnode.dev](https://danieljasme.hashnode.dev)  
+**LinkedIn:** www.linkedin.com/in/ahmad-daniel-63721b322
+
+---
+
+*These projects are completed as part of the Google Business Intelligence Certificate program. The Google Fiber scenario is a fictional case study provided by the program for educational purposes.*
