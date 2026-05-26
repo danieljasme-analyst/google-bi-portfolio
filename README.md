@@ -7,7 +7,6 @@
 **Program:** [Google Business Intelligence Certificate](https://grow.google/certificates/business-intelligence/) on Coursera  
 **Blog:** [danieljasme.hashnode.dev](https://danieljasme.hashnode.dev)  
 **Status:** ✅ Complete
-[README-updated.md](https://github.com/user-attachments/files/28278875/README-updated.md)
 
 ---
 
@@ -42,7 +41,7 @@ All projects use the **Google Fiber** scenario: a fictional case study where I a
 
 ## Live Dashboard
 
-🔗 **[Google Fiber Repeat Calls Dashboard — Tableau Public](https://public.tableau.com)**  
+🔗 **[Google Fiber Repeat Calls Dashboard — Tableau Public](https://public.tableau.**  
 *(Update this link after publishing)*
 
 ---
