@@ -20,7 +20,7 @@ This course brought together all three stages of the BI workflow:
 
 ## Live Dashboard
 
-🔗 **[View on Tableau Public → [Add your Tableau Public URL here](https://public.tableau.com/views/GoogleFiberRepeatCallsDashboardGoogleBICertificate/RepeatCalls?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]**
+🔗 **[View on Tableau Public → [Tableau Public URL here](https://public.tableau.com/views/GoogleFiberRepeatCallsDashboardGoogleBICertificate/RepeatCalls?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]**
 
 ---
 
