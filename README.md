@@ -1,4 +1,3 @@
-[README-updated.md](https://github.com/user-attachments/files/28278865/README-updated.md)
 # Google Business Intelligence Certificate — Portfolio
 
 **Candidate:** Ahmad Daniel  
