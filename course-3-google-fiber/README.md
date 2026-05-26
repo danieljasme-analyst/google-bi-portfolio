@@ -74,7 +74,7 @@ The final workbook contains **7 worksheets** organized into **4 dashboards**, ac
 | File | Description |
 |------|-------------|
 | [Google_Fiber_Executive_Summary.pdf](Google_Fiber_Executive_Summary.pdf) | Full executive summary covering business need, methods, dashboard capabilities, results, and next steps |
-| [[Dashboard link](https://public.tableau.com/views/GoogleFiberRepeatCallsDashboardGoogleBICertificate/RepeatCalls?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)] | Live Tableau Public dashboard |
+| [Dashboard link](https://public.tableau.com/views/GoogleFiberRepeatCallsDashboardGoogleBICertificate/RepeatCalls?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | Live Tableau Public dashboard |
 
 ---
 
