@@ -20,7 +20,7 @@ This course brought together all three stages of the BI workflow:
 
 ## Live Dashboard
 
-🔗 **[View on Tableau Public → Add your Tableau Public URL here]**
+🔗 **[View on Tableau Public → [Add your Tableau Public URL here](https://public.tableau.com/views/GoogleFiberRepeatCallsDashboardGoogleBICertificate/RepeatCalls?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]**
 
 ---
 
@@ -74,7 +74,7 @@ The final workbook contains **7 worksheets** organized into **4 dashboards**, ac
 | File | Description |
 |------|-------------|
 | [Google_Fiber_Executive_Summary.pdf](Google_Fiber_Executive_Summary.pdf) | Full executive summary covering business need, methods, dashboard capabilities, results, and next steps |
-| [Dashboard link](https://public.tableau.com) | Live Tableau Public dashboard |
+| [Dashboard link]([https://public.tableau.com](https://public.tableau.com/views/GoogleFiberRepeatCallsDashboardGoogleBICertificate/RepeatCalls?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) | Live Tableau Public dashboard |
 
 ---
 
