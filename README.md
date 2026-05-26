@@ -65,7 +65,7 @@ All projects use the **Google Fiber** scenario: a fictional case study where I a
 ---
 
 *These projects are completed as part of the Google Business Intelligence Certificate program. The Google Fiber scenario is a fictional case study provided by the program for educational purposes.*
-gle Business Intelligence Certificate]https://grow.google/certificates/business-intelligence/ on Coursera  
+gle Business Intelligence Certificate https://grow.google/certificates/business-intelligence/ on Coursera  
 **Blog:** [danieljasme.hashnode.dev](https://danieljasme.hashnode.dev)  
 **Status:** ✅ Complete
 
