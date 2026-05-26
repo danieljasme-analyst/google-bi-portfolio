@@ -142,8 +142,8 @@ Looking back at the full project:
 
 ## Portfolio Links
 
-- 🔗 **Live dashboard:** [Add your Tableau Public URL]
-- 📁 **GitHub repository:** [https://github.com/YOUR_USERNAME/google-bi-portfolio](https://github.com/danieljasme-analyst/google-bi-portfolio/tree/main)
+- 🔗 **Live dashboard:** [Tableau Public URL]
+- 📁 **GitHub repository:** [https://github.com/danieljasme-analyst/google-bi-portfolio](https://github.com/danieljasme-analyst/google-bi-portfolio/tree/main)
 - 📄 **Course 1 post:** [Planning phase walkthrough](https://danieljasme.hashnode.dev/how-i-approached-the-google-fiber-bi-case-study-google-bi-certificate-course-1)
 
 ---
